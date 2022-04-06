@@ -7,5 +7,5 @@ Currently WIP
 
 To Do
 
-Check fitiment
+Check fitment,
 Write Firmware
