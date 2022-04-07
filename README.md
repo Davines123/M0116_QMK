@@ -6,5 +6,4 @@ Initially built around Elmo's M0116 pcb, later reworked from the ground up due t
 Currently WIP<br />
 <br />
 To Do<br />
-Check fitment<br />
-Write Firmware<br />
+Order Prototype<br />
